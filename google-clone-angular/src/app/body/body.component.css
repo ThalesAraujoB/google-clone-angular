@@ -10,4 +10,19 @@
   border-radius: 50px;
   height: 45px;
   width: 550px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.lupa {
+  padding: 8px;
+}
+.teclado {
+  margin-left: 410px;
+}
+.mic {
+  margin-left: 15px;
+}
+.camera {
+  margin-left: 15px;
 }
